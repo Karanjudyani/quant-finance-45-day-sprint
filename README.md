@@ -61,8 +61,7 @@ quant-finance-45-day-sprint/
 
 ## Key Learnings
 - **Day 1:** Downloaded historical data for AAPL using `yfinance`, explored price trends, moving averages, and daily returns.
-- **Day 2:** Calculated log vs simple returns and plotted rolling volatility.
-- **Day 3+:** Started building portfolio risk models.
+
 
 ---
 

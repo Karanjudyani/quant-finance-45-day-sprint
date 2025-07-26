@@ -39,22 +39,6 @@ quant-finance-45-day-sprint/
 
 ---
 
-## Progress
-| Day | Project | Status |
-|-----|---------|--------|
-| 1   | Download & Plot Stock Prices | ✅ Done |
-| 2   | Daily, Monthly, Annual Returns | ⏳ In Progress |
-| 3   | Portfolio Return & Volatility | ⏳ |
-| ... | ... | ... |
-
----
-
-## Sample Outputs
-![Sample Plot](images/efficient_frontier.png)  
-_(Example: Efficient Frontier Plot from Day 26)_
-
----
-
 ## How to Run
 1. Clone the repo:
    ```bash
